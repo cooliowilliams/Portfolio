@@ -14,4 +14,4 @@ A portfolio website built with **React + Vite**, **Node.js**, and **Framer Motio
 
 - Frontend: React, Vite, Framer Motion
 - Backend: Node.js, Express
-- Styling: Tailwind CSS (or whichever you're using)
+- Styling: Tailwind CSS 
